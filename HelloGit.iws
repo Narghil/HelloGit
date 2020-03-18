@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3042962e-5b13-4944-8300-f4020fc3be93" name="Default Changelist" comment="" />
+    <list id="7b0d01bb-737a-48c0-b3b9-db137a8bb5a8" name="Add files" comment="add files comment">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGit.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGit.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/pernyei/HelloGit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZIdQe1aDbMuDvgtcoUkFrkCYKJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3042962e-5b13-4944-8300-f4020fc3be93" name="Default Changelist" comment="" />
+      <changelist id="7b0d01bb-737a-48c0-b3b9-db137a8bb5a8" name="Add files" comment="add files comment" />
+      <created>1584530526662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584530526662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="76" y="162" key="SettingsEditor" timestamp="1584531020167">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="76" y="162" key="SettingsEditor/0.0.1920.1052@0.0.1920.1052" timestamp="1584531020167" />
+    <state x="175" y="455" key="VCS.ChangelistChooser" timestamp="1584531931621">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="175" y="455" key="VCS.ChangelistChooser/0.0.1920.1052@0.0.1920.1052" timestamp="1584531931621" />
+  </component>
+</project>
